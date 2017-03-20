@@ -42,3 +42,15 @@ len()
 """
 
 # Tema 2
+<array>.insert(<int>,valor_a_insertar)
+### Conversiones
+int(<tipo datos>)
+float(<tipo datos>)
+str(<tipo dato>)
+
+## Anadir al principio list
+[a] + list
+
+## numpy
+<numpy_list>.tolist() // converir de numpy array a array
+numpy.zeros(<int x>,<int y>)
