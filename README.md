@@ -1,6 +1,31 @@
-# Examenes fundamentos de programacion espol
+# Examenes fundamentos de programación espol
 
-## Como instalar python?
+
+## Instalacion
+
+```sh
+virtualenv -p python3 .python
+```
+
+
+```sh
+source .python/bin/activate
+```
+
+
+```sh
+pip freeze > requirements.txt
+```
+
+```sh
+pip3 install -r requirements.txt 
+```
+
+<!-- module_name, package_name, ClassName, method_name, ExceptionName, 
+function_name, GLOBAL_CONSTANT_NAME, global_var_name, 
+instance_var_name, function_parameter_name, local_var_name -->
+
+<!-- ## Como instalar python?
 
 ## Como instalar pip?
 
@@ -35,3 +60,4 @@ http://blog.espol.edu.ec/icm00794/1ra-evaluacion-indice/
 
 ## Otros Recursos
 * Plotly
+ -->
