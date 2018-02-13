@@ -8,3 +8,4 @@ share/
 data/
 TODO
 .python/
+__pycache__/
