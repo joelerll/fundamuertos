@@ -1,11 +1,1 @@
-draft/
-include/
-lib/
-bin/
-local/
-pip-selfcheck.json
-share/
-data/
-TODO
-.python/
-__pycache__/
+*.pyc

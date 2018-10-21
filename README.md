@@ -1,9 +1,21 @@
 # Examenes fundamentos de programación espol
 
 
-## Instalacion
+## Instalación
 
 ```sh
+pipenv install requests
+```
+
+## Posibles errores
+
+* Si el pipenv se queda trabado usar
+
+```sh
+pipenv --three lock --verbose
+```
+
+<!-- ```sh
 virtualenv -p python3 .python
 ```
 
@@ -19,7 +31,7 @@ pip freeze > requirements.txt
 
 ```sh
 pip3 install -r requirements.txt 
-```
+``` -->
 
 <!-- module_name, package_name, ClassName, method_name, ExceptionName, 
 function_name, GLOBAL_CONSTANT_NAME, global_var_name, 
